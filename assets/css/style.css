@@ -2,6 +2,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 1;
+    background-color: ;
   }
   
   textarea{
@@ -11,14 +12,25 @@ body {
     color: #000000;
     border-left: 1px solid black;
     padding: 10px;
+    
   }
-  
+  .lead {
+
+    color:#6495ED;
+    
+  }
+
+#currentDay {
+  color:#FAF0E6;
+  font-size: 40px;
+}
   .jumbotron {
     text-align: center;
     background-color: transparent;
-    color: black;
+    color: #B0E0E6;
     border-radius: 0;
     border-bottom: 10px solid black;
+    background-color:#696969;
   }
   
   .description{

@@ -9,6 +9,6 @@ There are no installations needed to use this Day Scheduler. The Day Scheduler s
 This scheduler is free to use for everyone.
 
 ## Usage
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
 
 
