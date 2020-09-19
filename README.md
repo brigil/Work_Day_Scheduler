@@ -10,5 +10,5 @@ This scheduler is free to use for everyone.
 
 ## Usage
 
-
+<img src="./assets/images/screenrecording.gif">
 
