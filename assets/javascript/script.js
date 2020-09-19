@@ -6,5 +6,9 @@ $("#currentDay").text(moment().format("dddd, MMMM Do YYYY"));
 // create 9 rows with 3 columns
 // connect to elements through their class in HTML
 
+// create if and else statments to color code the current, past and present time display
+// connect to local storage to save data inputs
+
+
 
 
