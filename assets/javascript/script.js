@@ -10,8 +10,7 @@ var CurrentDay = [
         id: "0",
         hour: "09:00",
         time: "09",
-        
-        meridiem: " am",
+         meridiem: " am",
         reminder: ""
     },
     {
