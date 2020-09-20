@@ -1,6 +1,7 @@
 # Work Day Scheduler
 
-<img src="https://miro.medium.com/max/882/1*9EBHIOzhE1XfMYoKz1JcsQ.gif">
+## Description 
+Plan your day ahead of time with this 9 hour day Work Day Scheduler. In this scheduler the user is able to view the current day on the top of the page 
 
 ## Installation
 
@@ -10,5 +11,4 @@ This scheduler is free to use for everyone.
 
 ## Usage
 
-<img src="./assets/images/screenrecording.gif">
 

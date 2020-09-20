@@ -28,15 +28,34 @@ body {
   color: white;
   
 }
-  .jumbotron {
+.otherHalf
+{
+  width: 100%;
+  height: 250px;
+  margin-top:80px;
+
+   
+  /* Used in this example to enable scrolling */
+
+
+}  
+
+.jumbotron {
+    
     text-align: center;
     background-color: transparent;
     color:  #06AED5;
     border-radius: 0;
- 
-   border-bottom: 10px solid black;
-   margin-bottom: 10px;
-  background-image: url("/assets/images/mooning.png");
+    border-bottom: 10px solid black;
+    margin-bottom: 10px;
+    background-image: url("/assets/images/mooning.png");
+     position: fixed;
+    overflow: hidden;
+    left: 50%;
+    margin-left: -600px;
+    width: 1200px;
+    z-index: 10;
+    top: 0%;
   }
   
   .description{
